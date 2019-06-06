@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/*Page de connexion*/
+
+#formconnect{
+	padding:;
+}
+#divMessageSaisie{
+	margin-left:10vw;
+	margin-top:8vh;
+}
+/*Rembourse*/
+#mainRembourse{
+	
+}
